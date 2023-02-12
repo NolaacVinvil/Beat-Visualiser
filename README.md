@@ -1,5 +1,5 @@
-# Beat-Visualiser
-Python based app for visualising audio.
+# Beat Visualiser
+Python based app for visualising audio. Useful as a background for your room.
 
 
 # Setup and controls
