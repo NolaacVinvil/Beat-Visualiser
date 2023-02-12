@@ -6,4 +6,4 @@ Python based app for visualising audio. Useful as a background for your room.
 ![CONTROLS](controls.jpg)
 
 # Output
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gyfsaFCdTNY/1.jpg)](https://www.youtube.com/watch?v=gyfsaFCdTNY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gyfsaFCdTNY/hq1.jpg)](https://www.youtube.com/watch?v=gyfsaFCdTNY)
